@@ -1,0 +1,368 @@
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.exe
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.deps.json
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.runtimeconfig.json
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.runtimeconfig.dev.json
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.pdb
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\DnsClient.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.AssemblyInfoInputs.cache
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.AssemblyInfo.cs
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.csproj.CoreCompileInputs.cache
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.MvcApplicationPartsAssemblyInfo.cs
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.MvcApplicationPartsAssemblyInfo.cache
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\staticwebassets\TWEETApp.StaticWebAssets.Manifest.cache
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\staticwebassets\TWEETApp.StaticWebAssets.xml
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\TWEETApp.styles.css
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.RazorTargetAssemblyInfo.cache
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.csproj.CopyComplete
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.dll
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.pdb
+F:\IIHT\3.1\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.genruntimeconfig.cache
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\3.1\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.exe
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.deps.json
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.runtimeconfig.json
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.runtimeconfig.dev.json
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.pdb
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\FSE1\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.csproj.AssemblyReference.cache
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.AssemblyInfoInputs.cache
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.AssemblyInfo.cs
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.csproj.CoreCompileInputs.cache
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.MvcApplicationPartsAssemblyInfo.cs
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.MvcApplicationPartsAssemblyInfo.cache
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\staticwebassets\TWEETApp.StaticWebAssets.Manifest.cache
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.RazorTargetAssemblyInfo.cache
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.csproj.CopyComplete
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.dll
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.pdb
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.genruntimeconfig.cache
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\staticwebassets\TWEETApp.StaticWebAssets.xml
+D:\FSE1\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\TWEETApp.styles.css
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.exe
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.deps.json
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.runtimeconfig.json
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.runtimeconfig.dev.json
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\TWEETApp.pdb
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\DnsClient.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.csproj.AssemblyReference.cache
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.AssemblyInfoInputs.cache
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.AssemblyInfo.cs
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.csproj.CoreCompileInputs.cache
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.MvcApplicationPartsAssemblyInfo.cs
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.MvcApplicationPartsAssemblyInfo.cache
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\staticwebassets\TWEETApp.StaticWebAssets.Manifest.cache
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\staticwebassets\TWEETApp.StaticWebAssets.xml
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\TWEETApp.styles.css
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.RazorTargetAssemblyInfo.cache
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.csproj.CopyComplete
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.dll
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.pdb
+F:\IIHT\Choudhary ji\TWEETApp\TWEETApp\obj\Debug\netcoreapp3.1\TWEETApp.genruntimeconfig.cache
